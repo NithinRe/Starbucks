@@ -75,3 +75,8 @@ the data.
 ### 5. Blog Website
 
 A blog has been published in this [site](https://nithinre.github.io/Capstone_Star-Bucks/)
+
+
+This original subimmison of my work as the previous reviewer asked to udpate something to prove that this work is done by me later I found several students have copied my project and they have passed from nanodegree where they are not even eligible to graduate from udacity.As I have worked with a udacity student in August 2019 I have done this project with them on my own later I thought in future when I have some bucks to graduate in udacity I thought it would help me while doing projects.
+I didn't thought the projects would be same which I have done laster with my friend.
+As udacity is providing free month I have joined udacity.
